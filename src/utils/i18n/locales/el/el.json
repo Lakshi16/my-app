@@ -1,0 +1,5 @@
+{
+      "WelcomeMessage_one": "Έχεις {{count}} ειδοποίηση.",
+      "WelcomeMessage_other": "Έχεις {{count}} ειδοποιήσεις",
+      "welcomeuser":"Καλώς ήρθατε <1>χρήστη</1>! <3>στον ιστότοπο</3>"
+    }
