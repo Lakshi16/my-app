@@ -2,7 +2,7 @@
       "WelcomeMessage_one": "Vous avez {{count}} notification",
       "WelcomeMessage_other": "Vous avez {{count}} notifications ",
       "welcomeuser":"Bonjour <1>utilisateur</1>! <3>sur le site web</3>",
-  "idofbook":"Id",
+  "idofbook":"Identifiant",
   "bookname":"Nom du livre",
   "author":"Auteur",
   "year":"Année de publication",
