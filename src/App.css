@@ -41,6 +41,7 @@
   color: #888;
 } */
 @import "tailwindcss";
+@plugin "daisyui";
 
 html, body, #root {
   height: 100%;
@@ -66,9 +67,7 @@ footer{
 .content{
   flex:1;
   overflow:auto;
-   display: flex;
   justify-content: center; /* horizontal center */
-  align-items: center; 
 }
 
 #root{
